@@ -326,6 +326,9 @@ Book type section Design
 .pt-3 {
   text-align: center;
 }
+section#memory .wrapper {
+  padding-bottom: 0;
+}
 /*
 ==========================================
 Inner Page Banner section Design
